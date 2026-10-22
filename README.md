@@ -14,4 +14,4 @@ I specialize in Software Engineering, QA Automation, and DevOps.
 - **Databases:** PostgreSQL, MySQL
 
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/abdallh-mohamed) | [Email](mailto:amahaaq@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-elfetouh/) | [Email](mailto:amahaaq@gmail.com)
